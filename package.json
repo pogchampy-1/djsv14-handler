@@ -9,7 +9,7 @@
   "keywords": [],
   "private": "true",
   "author": "",
-  "license": "ISC",
+  "license": "AGPL-3.0",
   "dependencies": {
     "discord.js": "^14.0.3",
     "mongoose": "^6.4.6"
